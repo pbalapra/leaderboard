@@ -1,4 +1,4 @@
-# leaderboard command line
+# leaderboard 
 
 #see requirements.txt for the required python packages
 pip install -r requirements.txt
