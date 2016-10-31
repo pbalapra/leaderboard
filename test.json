@@ -1,0 +1,80 @@
+[{
+"benchmark_name":"benchmark1",
+"user_name":"user1",
+"method":"dnn",
+"software":"neon",
+"score":6.921,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/10/2014 13:43:22"
+},
+{
+"benchmark_name":"benchmark1",
+"user_name":"user2",
+"method":"dnn",
+"software":"tflow",
+"score":7.16,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/11/2014 13:43:22"
+},
+{
+"benchmark_name":"benchmark1",
+"user_name":"user1",
+"method":"dnn",
+"software":"theano",
+"score":9.61,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/12/2014 13:43:22"
+},
+{
+"benchmark_name":"benchmark1",
+"user_name":"user2",
+"method":"dnn",
+"software":"xmnet",
+"score":1.21,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/13/2014 13:43:22"
+},{
+"benchmark_name":"benchmark1",
+"user_name":"user2",
+"method":"dnn",
+"software":"caffe",
+"score":9.16,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/14/2014 13:43:22"
+},
+{
+"benchmark_name":"benchmark1",
+"user_name":"user2",
+"method":"dnn",
+"software":"cntk",
+"score":5.56,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/15/2014 13:43:22"
+},
+{
+"benchmark_name":"benchmark1",
+"user_name":"user2",
+"method":"dnn",
+"software":"paddle",
+"score":6.21,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/16/2014 13:43:22"
+},
+{
+"benchmark_name":"benchmark1",
+"user_name":"user2",
+"method":"dnn",
+"software":"lbann",
+"score":2.21,
+"cv":"10-fold",
+"metric":"RMSE",
+"time":"11/17/2014 13:43:22"
+}
+]
